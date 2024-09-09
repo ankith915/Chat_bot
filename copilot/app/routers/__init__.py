@@ -1,0 +1,1 @@
+from .inquiryai import router as inquiryai_router
